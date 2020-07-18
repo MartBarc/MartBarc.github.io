@@ -5831,6 +5831,10 @@ button.close {
   perspective: 1000px;
 }
 
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
+
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
