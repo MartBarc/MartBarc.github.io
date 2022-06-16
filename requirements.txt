@@ -28,14 +28,6 @@ itsdangerous==2.1.2
 jedi==0.18.1
 Jinja2==3.1.2
 jsonschema==4.6.0
-jupyter-client==7.3.4
-jupyter-contrib-core==0.3.3
-jupyter-contrib-nbextensions==0.5.1
-jupyter-core==4.10.0
-jupyter-highlight-selected-word==0.2.0
-jupyter-latex-envs==1.4.6
-jupyter-nbextensions-configurator==0.4.1
-jupyterlab-pygments==0.2.2
 lxml==4.9.0
 lz4==3.0.2
 MarkupSafe==2.1.1
@@ -47,7 +39,6 @@ nbformat==5.4.0
 nest-asyncio==1.5.5
 notebook==6.4.12
 numpy==1.18.5
-opencv-python==4.2.0.34
 packaging==21.3
 pandas==1.4.2
 pandocfilters==1.5.0
