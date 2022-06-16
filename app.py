@@ -14,6 +14,6 @@ def serve(path):
 
 @app.errorhandler(404)
 def not_found(e):
-  return app.send_static_file('index.html')
+    return app.send_static_file('index.html')
 
 api.add_resource(HelloApiHandler, '/flask/hello')
